@@ -36,6 +36,18 @@ body {
   color: white;
 }
 
+.instructionss {
+  position: absolute;
+  bottom: 8%;
+
+  left: 0;
+  right: 0;
+  padding: 0.5rem;
+  text-align: center;
+  font-family: Bitter, sans-serif;
+  color: white;
+}
+
 :root {
   --brown: #754c28;
   --brown-light: #bcaea1a4;
